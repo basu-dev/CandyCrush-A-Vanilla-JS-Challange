@@ -107,8 +107,7 @@ body{
 .box{
     cursor:pointer;
     width:60px;
-    height: 60px;
-    background:url("images/blue.png") ;    
+    height: 60px;   
     background-size: contain !important;
 }
 .scoreboard,.time{
